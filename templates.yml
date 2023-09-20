@@ -1,7 +1,7 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: expressjs-template
+  name: new ultimate
   title: Express.js Template
   description: Creates a an Expressjs app for the StageCentral Workshop
 spec:
